@@ -1,0 +1,25 @@
+{
+  "name": "Portofolio-Web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwisnu222/Portofolio-Web.git"
+  },
+  "author": "Warlock <hwisnu222@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hwisnu222/Portofolio-Web/issues"
+  },
+  "homepage": "https://github.com/hwisnu222/Portofolio-Web#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "laravel-mix": "^5.0.4",
+    "tailwindcss": "^1.4.6"
+  }
+}
